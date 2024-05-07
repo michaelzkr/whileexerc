@@ -1,0 +1,3 @@
+[LÓGICA DE PROGRAMAÇÃO]
+While: Executa uma instrução até que uma condição especifica (enquanto a condição verificada for verdadeira).
+se falsa o código não irá rodar.
